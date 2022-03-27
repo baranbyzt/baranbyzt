@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm baran</h1>
-<h3 align="center">I'm a passionate computer engineering student and a full stack developer who is mostly developing with Spring Boot, NodeJS & React.</h3>
+<h3 align="center">I am a passionate Frontend developer and mostly develop web pages that develop with React..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baranbyzt&label=Profile%20views&color=0e75b6&style=flat" alt="baranbyzt" /> </p>
 
