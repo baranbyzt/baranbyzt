@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm baran</h1>
-<h3 align="center">I am a passionate <b style:'color:yellow'>Frontend<b/> developer and mostly develop web pages that develop with React..</h3>
+<h3 align="center">I am a passionate <b style:'color:yellow'>Frontend<b/> developer and mostly develop web pages that develop with Vue,React..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baranbyzt&label=Profile%20views&color=0e75b6&style=flat" alt="baranbyzt" /> </p>
 
